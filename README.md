@@ -1,6 +1,13 @@
 # IBM Data Science Professional Certificate | Applied Data Science Capstone
-#### Coursera Course Link: https://www.coursera.org/professional-certificates/ibm-data-science 
-#### Specialization Certificate Link: https://www.coursera.org/account/accomplishments/specialization/certificate/CJBQQ2TTHEV8
+Coursera Course Link: https://www.coursera.org/professional-certificates/ibm-data-science 
+
+Final Report - https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/f19f82af-cc9a-4e46-9c0c-41d17204d841/view?access_token=f95b1a10e7d54830dc65fc223fc02fa81ce1b2de5ccce9901c6de7458b1ab859
+
+Final Project Code - https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/92a5a935-0436-4b89-942e-81c89b65b4ee/view?access_token=ad58f325757bfc28d5279ea219383625bba0ba8d9ce99c2726cfe4ef05be66c4
+
+BlogPost - http://roshangrewal.com/capstone-project-the-battle-of-neighborhoods-finding-a-better-place-in-scarborough-toronto/
+
+Specialization Certificate Link: https://www.coursera.org/account/accomplishments/specialization/certificate/CJBQQ2TTHEV8 
 
 ### Description: 
 Data Science has been ranked as one of the hottest professions and the demand for data practitioners is booming. This Professional Certificate from IBM is intended for anyone interested in developing skills and experience to pursue a career in Data Science or Machine Learning.
